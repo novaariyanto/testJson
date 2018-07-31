@@ -1,0 +1,29 @@
+{
+  "response":200,
+  "status": "ok",
+  "totalResults": 3,
+  "totalDapat": "Rp. 450.000",
+  "detail": [
+    {   
+      "id":1,
+      "nama_tindakan": "Pemeriksaan / Visit Dokter",
+      "pengolahan ": "Rp. 1.000.000.00",
+      "persentase_pribadi": "10.00 %",
+      "dapat": "Rp. 100.000"
+    },
+    {
+      "id":2,
+      "nama_tindakan": "Pemeriksaan / Visit Dokter",
+      "pengolahan ": "Rp. 2.000.000.00",
+      "persentase_pribadi": "10.00 %",
+      "dapat": "Rp. 200.000"
+    },
+    {
+      "id":3,
+      "nama_tindakan": "Pemeriksaan / Visit Dokter",
+      "pengolahan ": "Rp. 1.500.000.00",
+      "persentase_pribadi": "10.00 %",
+      "dapat": "Rp. 150.000"
+    }
+  ]
+}
