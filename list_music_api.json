@@ -1,0 +1,41 @@
+{
+    "response": 200,
+    "status": "ok",
+    "title": "Music",
+    "data": [
+        {
+            "id": 0,
+            "judul": "Sing song 3",
+            "link": "test sing",
+            "url": "image.jpg"
+        },
+        {
+            "id": 1,
+           "judul": "Sing song 3",
+            "deskripsi ": "test sing",
+            "url": "image.jpg"
+        },
+        {
+            "id": 2,
+            "judul": "Sing song 3",
+            "deskripsi ": "test sing",
+            "url": "image.jpg"
+        },{
+            "id": 3,
+            "judul": "Sing song 3",
+            "deskripsi ": "test sing",
+            "url": "image.jpg"
+        },
+          {
+            "id": 4,
+            "judul": "Sing song 3",
+            "deskripsi ": "test sing",
+            "url": "image.jpg"
+        },{
+            "id": 5,
+            "judul": "Sing song 3",
+            "deskripsi ": "test sing",
+            "url": "image.jpg"
+        }
+    ]
+}
